@@ -1,6 +1,4 @@
-# Gilmore Girls Club — Generative Engine Optimization Map
-
-> An ultimate fan website dedicated to Gilmore Girls, capturing the magical atmosphere of Stars Hollow with warm coffee-shop vibes, pastel aesthetics, and small-town charm. The site celebrates iconic moments, beloved characters, dramatic storylines, and humorous scenes from the series, featuring interactive quizzes (Team Jess vs Team Logan), character profiles with quotes and photos, episode analyses, town location guides, and a Luke's Coffee Corner for fan discussions. The design evokes the cozy, whimsical feeling of the show's setting with cute icons and scene-inspired graphics.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Gilmore Girls Club
-An ultimate fan website dedicated to Gilmore Girls, capturing the magical atmosphere of Stars Hollow with warm coffee-shop vibes, pastel aesthetics, and small-town charm. The site celebrates iconic moments, beloved characters, dramatic storylines, and humorous scenes from the series, featuring interactive quizzes (Team Jess vs Team Logan), character profiles with quotes and photos, episode analyses, town location guides, and a Luke's Coffee Corner for fan discussions. The design evokes the cozy, whimsical feeling of the show's setting with cute icons and scene-inspired graphics.
-
-## Target Audience
-Gilmore Girls fans
-
-## Industry
-entertainment/fan community
-
+## About Business
 ---
 
 # Additional Resources
