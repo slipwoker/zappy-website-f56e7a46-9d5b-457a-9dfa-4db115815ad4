@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# Gilmore Girls Club — Generative Engine Optimization Map
+
+> An ultimate fan website dedicated to Gilmore Girls, capturing the magical atmosphere of Stars Hollow with warm coffee-shop vibes, pastel aesthetics, and small-town charm. The site celebrates iconic moments, beloved characters, dramatic storylines, and humorous scenes from the series, featuring interactive quizzes (Team Jess vs Team Logan), character profiles with quotes and photos, episode analyses, town location guides, and a Luke's Coffee Corner for fan discussions. The design evokes the cozy, whimsical feeling of the show's setting with cute icons and scene-inspired graphics.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://gilmore-girls-club.zappy5.app
 גלי את העולם הקסום של גילמור גירלס עם חידונים מהנים, ניתוחי פרקים, ופינת הקפה של לוק. הצטרפי לקהילת המעריצות החמה והנוסטלגית שלנו!
 
 ### דמויות
-https://example.com/characters
+https://gilmore-girls-club.zappy5.app/characters
 דפי דמויות מפורטים עם ציטוטים בלתי נשכחים, תמונות נוסטלגיות וניתוחי אישיות. גלי מי את - Team Jess או Team Logan? כנסי לעמודי הדמויות שלנו!
 
 ### פרקים ומיקומים
-https://example.com/episodes-locations
+https://gilmore-girls-club.zappy5.app/episodes-locations
 חקרי את כל הפרקים והמיקומים האייקוניים של סטארס הולו. ניתוחים מעמיקים, רגעים דרמטיים והומוריסטיים, ומדריך למקומות האהובים בעיירה הקסומה!
 
 ### צור קשר
-https://example.com/contact
+https://gilmore-girls-club.zappy5.app/contact
 שתפי את האהבה שלך לגילמור גירלס! צרי קשר עם קהילת המעריצות, הציעי רעיונות לחידונים חדשים, והצטרפי לדיונים החמים שלנו על הסדרה האהובה.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://gilmore-girls-club.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://gilmore-girls-club.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://gilmore-girls-club.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Gilmore Girls Club
+An ultimate fan website dedicated to Gilmore Girls, capturing the magical atmosphere of Stars Hollow with warm coffee-shop vibes, pastel aesthetics, and small-town charm. The site celebrates iconic moments, beloved characters, dramatic storylines, and humorous scenes from the series, featuring interactive quizzes (Team Jess vs Team Logan), character profiles with quotes and photos, episode analyses, town location guides, and a Luke's Coffee Corner for fan discussions. The design evokes the cozy, whimsical feeling of the show's setting with cute icons and scene-inspired graphics.
+
+## Target Audience
+Gilmore Girls fans
+
+## Industry
+entertainment/fan community
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://gilmore-girls-club.zappy5.app/sitemap.xml
+- **Robots.txt**: https://gilmore-girls-club.zappy5.app/robots.txt
